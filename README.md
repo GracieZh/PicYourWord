@@ -1,4 +1,4 @@
-# PicYourWord
+# PicYourWord 
 
 **Inspiration:** In the midst of a global pandemic, where members of society are confined to their homes for the safety of others, creativity can be limited and individuals cannot express themselves as easily. The countless months in isolation may have dimmed the creative spirit for many individuals, but with PicYourWord all it takes is a single word to curate a personalized mood board to boost personal morale. They say a picture is worth 1000 words, but in this case a single word has the power to spark a unique collection of pictures to express your mood.
 
@@ -18,5 +18,5 @@ Collaboratively developed for Hack The North 2021 by:
 
 
 Link to application demonstration:
-[Done Using Figma](https://www.figma.com/file/rZO2GAjT0F4jLJk3bCuGWf/Hack-the-North-21?node-id=0%3A1 "Pic Your Word Figma Prototype")
+https://www.figma.com/file/rZO2GAjT0F4jLJk3bCuGWf/Hack-the-North-21?node-id=0%3A1
 
