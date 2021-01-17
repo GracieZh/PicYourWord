@@ -22,6 +22,7 @@
 			display: flex;
 			align-items: center;
 			text-align: center;
+			background-color:white;
 		}
 		.dash-container{
 
