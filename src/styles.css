@@ -1,0 +1,188 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.nav{
+	padding-top: 1%;
+	padding-right: 2%;
+	text-align: right;
+}
+
+.top-button{
+	border-radius: 4px;
+	background-color: transparent;
+	color: black;
+	border: 1px solid #555555;	
+	width: 8vw;
+	height: 3vw;
+}
+
+.top-button:hover {
+  background-color: #555555;
+  color: white;
+}
+
+body{
+	/*background-image: linear-gradient(lightpink, lightblue);*/
+	-webkit-animation: colorchange 20s infinite;
+    animation: colorchange 20s infinite;
+}
+
+@-webkit-keyframes colorchange {
+	0% {
+	  background: #f2b5d4;
+	}
+	25% {
+	  background: #f7d6e0;
+	}
+	50% {
+	  background: #eff7f6;
+	}
+	75% {
+	  background: #7bdff2;
+	}
+	100% {
+	  background: #b2f7ef;
+	}
+}
+
+h1{
+	font-size:3vw;
+	font-weight: bold;
+	padding-left: 15%;
+	padding-top: 17%;
+}
+h2{
+	font-size:1.3vw;
+	padding-left: 15%;
+	max-width: 60%;
+}
+h3{
+	font-size:1.5vw;
+}
+p{
+	font-size:1vw;
+	padding-left: 15%;
+	max-width: 60%;	
+}
+
+.intro{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+.container{
+	/*
+    width: 100%;
+    margin: 0 auto;	
+	*/
+	padding-top: 2%;
+	display: grid;
+	grid-template-columns: auto auto;
+	width: 100vw;
+	height: 100vh;
+}
+
+/*search bar*/
+.search-container {
+	padding-left: 15%;
+}
+.search-container button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12.2px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: left;
+}
+
+input[type=text], input[type=password]{
+  padding: 12px 20px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;	
+}
+
+/*image grid*/
+.images-panel{
+    align-items: center;
+    text-align: center;
+}
+.myimg{
+  width:300px;
+  height:300px;
+  object-fit:cover;
+  background-position:center;
+}
+
+/*cover image*/
+.cover_image{
+	float: right;
+	text-align: right;
+	width:97%;
+	height:90vh;
+}
+
+
+.login{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+/*username password*/
+.up-container {
+	width: 100%;
+    margin: 0 auto;	
+	
+}
+.up-container button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12.2px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: center;
+}
+
+/*dashboard.php*/
+.dashboard {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 1% 1%;
+  text-decoration: none;
+  font-size: 80%;
+}
+
+.hov a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.topnav-right {
+  float: right;
+}
