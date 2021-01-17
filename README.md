@@ -7,6 +7,6 @@ Solution: A web application that allows users to create a custom mood board from
 The Team: While in a virtual environment, Hack The North 2021 brought together 4 very bright and likeminded women from across Ontario to collaborate and bring this idea to life. Being able to work with the team and interact with new online softwares and platforms brought about new skills and learning opportunities for each member. With varying levels of experience throughout the team it was a chance to learn together and develop a useful webpage that we hope can bring light into someone's life with just one word.
 
 Link to application demonstration:
-https://github.com/picyourword/picyourword.github.io
+https://www.figma.com/file/rZO2GAjT0F4jLJk3bCuGWf/Hack-the-North-21?node-id=0%3A1
 
 Collaboratively developed for Hack The North 2021
