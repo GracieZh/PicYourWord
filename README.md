@@ -17,4 +17,3 @@ Gracie Zhang, _
 Link to application demonstration:
 https://www.figma.com/file/rZO2GAjT0F4jLJk3bCuGWf/Hack-the-North-21?node-id=0%3A1
 
-Collaboratively developed for Hack The North 2021
