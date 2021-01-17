@@ -13,7 +13,7 @@ Collaboratively developed for Hack The North 2021 by:
 
 - Caitlin Everett, _University of Toronto Industrial Engineering, 3rd Year_
 
-- Claudia Jiang, _
+- Claudia Jiang, _Western University, Media Technology, 4th Year_
 
 - Gracie Zhang, _University of Waterloo Mathematics, 1st Year_
 
