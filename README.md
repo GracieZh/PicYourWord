@@ -18,5 +18,5 @@ Collaboratively developed for Hack The North 2021 by:
 
 
 Link to application demonstration:
-https://www.figma.com/file/rZO2GAjT0F4jLJk3bCuGWf/Hack-the-North-21?node-id=0%3A1
+[Done Using Figma](https://www.figma.com/file/rZO2GAjT0F4jLJk3bCuGWf/Hack-the-North-21?node-id=0%3A1 "Pic Your Word Figma Prototype")
 
