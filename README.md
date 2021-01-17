@@ -1,4 +1,5 @@
-# PicYourWord 
+# ![](LOGO2.png) 
+## Bring your creative side to life with this assistive website curating a complete _moodboard_ from only one word
 
 **Inspiration:** In the midst of a global pandemic, where members of society are confined to their homes for the safety of others, creativity can be limited and individuals cannot express themselves as easily. The countless months in isolation may have dimmed the creative spirit for many individuals, but with PicYourWord all it takes is a single word to curate a personalized mood board to boost personal morale. They say a picture is worth 1000 words, but in this case a single word has the power to spark a unique collection of pictures to express your mood.
 
@@ -12,9 +13,9 @@ Collaboratively developed for Hack The North 2021 by:
 
 - Caitlin Everett, _University of Toronto Industrial Engineering, 3rd Year_
 
-- Claudia Jiang, _
+- Claudia Jiang, _Western University, Media Technology, 4th Year_
 
-- Gracie Zhang, _
+- Gracie Zhang, _University of Waterloo Mathematics, 1st Year_
 
 
 Link to application demonstration:
