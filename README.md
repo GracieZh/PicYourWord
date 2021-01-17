@@ -8,10 +8,13 @@
 
 Collaboratively developed for Hack The North 2021 by:
 
-Angela He, _University of Waterloo Computer Engineering, 2nd Year_
-Caitlin Everett, _University of Toronto Industrial Engineering, 3rd Year_
-Claudia Jiang, _
-Gracie Zhang, _
+- Angela He, _University of Waterloo Computer Engineering, 2nd Year_
+
+- Caitlin Everett, _University of Toronto Industrial Engineering, 3rd Year_
+
+- Claudia Jiang, _
+
+- Gracie Zhang, _
 
 
 Link to application demonstration:
