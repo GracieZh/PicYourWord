@@ -14,7 +14,7 @@ Collaboratively developed for Hack The North 2021 by:
 
 - Claudia Jiang, _
 
-- Gracie Zhang, _
+- Gracie Zhang, _University of Waterloo Mathematics, 1st Year_
 
 
 Link to application demonstration:
